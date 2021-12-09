@@ -43,6 +43,13 @@ team to review.
 - I decided to use Google Maps Geocoding Api to get coordinates to then be used by the weather api
 - I allow the client to pass either a locationID (which they can get from the list api) or an address to be geocoded by google
 
+## Functionality 
+- User can register or login with username (with some basic duplicate checking)
+- User can search, add or remove saved locations
+- User can view weather and forecast for locations
+- User can pass in a raw address query and we will hit google to geocode it
+- 
+
 ## Wireframe
 ![alt text](location-search.PNG "Search")
 ![alt text](location-list.PNG "List")
