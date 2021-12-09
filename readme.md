@@ -34,7 +34,7 @@ This task should be solved using Java.
 Commit the code to GitHub, BitBucket, or other hosted public Git repository and share it with our
 team to review. 
 
-##Notes:
+## Notes:
 
 - I spent 4-5 hours and unfortunately I can't spend more time but most of the functionality should be working
 - I used Spring Boot to bootstrap the application
